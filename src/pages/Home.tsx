@@ -1,4 +1,3 @@
-import React from 'react';
 import AdsCarousel from '../components/SignIn/AdsCarousel';
 import SignInSignUp from '../components/SignIn/SignInSignUp';
 
